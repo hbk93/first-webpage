@@ -2,7 +2,7 @@
 #### Basic HTML Layout, 2020
 #### By Harry Bett
 ## Description
-{This is my first website that has a title and a list of what I will be learning on my journey }
+* This is my first website that has a title and a list of what I will be learning on my journey
 ## Setup/Installation Requirements
 * Run the URL on your browser
 ## Known Bugs
